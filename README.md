@@ -1,6 +1,6 @@
-## I have no special talents, I am only passionately curious. . .
+<h1> I have no special talents, I am only passionately curious. . .
 
-![image](https://github.com/user-attachments/assets/873ec8be-0f03-42df-80b1-330eb5ff5e78)
+
 
 <!--
 **slimreap3r/slimreap3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
